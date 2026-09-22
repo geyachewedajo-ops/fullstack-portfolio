@@ -1,17 +1,109 @@
-# React + Vite
+# Wedajo Getachew — Full-Stack Web Developer
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+Welcome to my full-stack web development portfolio.
 
-Currently, two official plugins are available:
+I build responsive and modern web applications using React, JavaScript, Node.js, Express.js, and MongoDB.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🌐 Portfolio
 
-## React Compiler
+https://wedajo.netlify.app/
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 👨‍💻 About Me
 
-## Expanding the Oxlint configuration
+I am a Junior Full-Stack Web Developer focused on building practical, responsive, and user-friendly web applications.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
-# fullstack-portfolio
+I work with both frontend and backend technologies and have experience building and deploying full-stack projects.
+
+## 🛠️ Technologies
+
+### Frontend
+- React
+- JavaScript
+- HTML5
+- CSS3
+- React Router
+- Responsive Web Design
+
+### Backend
+- Node.js
+- Express.js
+- REST APIs
+
+### Database
+- MongoDB
+
+### Tools
+- Git
+- GitHub
+- Render
+- Netlify
+- Vite
+
+## 🚀 Featured Project
+
+### Osunburg Investment Platform
+
+A full-stack web application built with React, Node.js, Express.js, and MongoDB.
+
+Features include:
+
+- User registration and login
+- Investment plans
+- Investment management
+- Withdrawal requests
+- Referral system
+- User dashboard
+- Admin dashboard
+- Admin investment management
+- Responsive mobile design
+
+## 💼 What I Can Build
+
+- Business websites
+- Portfolio websites
+- Landing pages
+- Full-stack web applications
+- Admin dashboards
+- REST APIs
+- Authentication systems
+- Responsive websites
+- Database-driven applications
+
+## 📱 Responsive Development
+
+My websites are designed to work across:
+
+- Mobile phones
+- Tablets
+- Desktop computers
+
+## 📂 GitHub Projects
+
+More projects and source code are available on my GitHub profile:
+
+https://github.com/geyachewedajo-ops
+
+## 📞 Contact
+
+**Wedajo Getachew**
+
+**Email:** geyachewedajo@gmail.com
+
+**GitHub:**  
+https://github.com/geyachewedajo-ops
+
+**Portfolio:**  
+https://wedajo.netlify.app/
+
+## 🎯 Career Goal
+
+I am looking for opportunities as a:
+
+- Junior Full-Stack Developer
+- Junior Web Developer
+- Frontend Developer
+- Backend Developer
+- Software Developer
+- IT/Technical Support Developer
+
+I am interested in remote and on-site opportunities where I can continue developing my professional software engineering skills.
