@@ -1,9 +1,25 @@
+import React from "react";
+
 function Projects() {
   const projects = [
     {
-      title: "Investment Web Application",
+      title: "Coffee Shop Website",
       description:
-        "A full-stack web application with user authentication, investment plans, referral functionality, withdrawals and an admin dashboard.",
+        "A responsive full-stack coffee shop website with customer ordering and admin management features.",
+      technologies: [
+        "React",
+        "JavaScript",
+        "Node.js",
+        "Express.js",
+        "MongoDB",
+      ],
+      demo: "https://ok123456.netlify.app/",
+      type: "Full-Stack Application",
+    },
+    {
+      title: "Investment App",
+      description:
+        "A full-stack investment application with user accounts, investment plans, withdrawals, referrals, and admin management.",
       technologies: [
         "React",
         "JavaScript",
@@ -15,29 +31,16 @@ function Projects() {
       type: "Full-Stack Application",
     },
     {
-      title: "Coffee Shop Website",
-      description:
-        "A responsive business website designed for a coffee shop, with a modern interface and mobile-friendly user experience.",
-      technologies: [
-        "React",
-        "JavaScript",
-        "HTML",
-        "CSS",
-      ],
-      demo: "#",
-      type: "Frontend Application",
-    },
-    {
       title: "Developer Portfolio",
       description:
-        "A responsive personal portfolio designed to present my skills, services, projects and contact information.",
+        "A responsive personal portfolio designed to present my full-stack web development skills and projects.",
       technologies: [
         "React",
         "Vite",
         "JavaScript",
         "CSS",
       ],
-      demo: "#",
+      demo: "https://wedajo.netlify.app/",
       type: "Frontend Application",
     },
   ];
@@ -53,7 +56,6 @@ function Projects() {
         {projects.map((project) => (
           <article className="project-card" key={project.title}>
             <div className="project-content">
-
               <span className="project-type">
                 {project.type}
               </span>
@@ -80,7 +82,6 @@ function Projects() {
                   View Live Demo →
                 </a>
               )}
-
             </div>
           </article>
         ))}
